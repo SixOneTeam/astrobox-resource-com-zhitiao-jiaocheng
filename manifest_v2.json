@@ -3,7 +3,7 @@
     "id": "com.zhitiao.jiaocheng",
     "restype": "quick_app",
     "name": "小纸条",
-    "description": "上学的你\n是否想在教室 宿舍和同学发信息？\n想用小米手环和朋友传递信息？",
+    "description": "上学的你\n是否想在教室 宿舍和同学发信息？\n想用小米手环和朋友传递信息？\n\n通过蓝牙与其他小米手环通信\n\n自带中英文数字符号键盘输入法\n支持添加好友私聊 支持广播大厅",
     "preview": [
       "media/01-首页.png",
       "media/02-交友大厅.png",

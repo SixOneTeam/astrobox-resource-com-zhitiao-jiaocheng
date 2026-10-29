@@ -1,0 +1,91 @@
+{
+  "item": {
+    "id": "com.zhitiao.jiaocheng",
+    "restype": "quick_app",
+    "name": "小纸条",
+    "description": "上学的你\n是否想在教室 宿舍和同学发信息？\n想用小米手环和朋友传递信息？",
+    "preview": [
+      "media/01-首页.png",
+      "media/02-交友大厅.png",
+      "media/03-私聊与送达.png",
+      "media/04-广播消息.png",
+      "media/05-九键输入.png",
+      "media/06-设置.png",
+      "media/01-首页和未读.png",
+      "media/03-好友列表.png",
+      "media/04-私聊.png",
+      "media/05-设置.png",
+      "media/06-密码保护.png",
+      "media/03-私聊.png",
+      "media/05-消息输入.png",
+      "media/07-密码锁定.png",
+      "media/02-好友列表.png",
+      "media/03-交友大厅.png",
+      "media/06-消息输入.png",
+      "media/07-私聊与送达.png"
+    ],
+    "icon": "media/062b024c0e29e471c07631e76ac4a108@2x.png",
+    "cover": "media/小纸条@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "小纸条密钥购买链接",
+      "url": "https://afdian.com/item/59773284d2c611f1822352540025c377",
+      "icon": "link"
+    },
+    {
+      "title": "小纸条QQ交流群",
+      "url": "https://qm.qq.com/q/WKYjSNclqI",
+      "icon": "chats-circle"
+    },
+    {
+      "title": "抖音演示视频",
+      "url": "https://www.douyin.com/video/7701688714221174257",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/小纸条教程环10.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/小纸条教程环10.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/小纸条教程环9P10P.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/小纸条教程环11.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/小纸条教程环11.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/小纸条教程环9.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/小纸条教程环9P10P.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
